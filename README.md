@@ -1,5 +1,5 @@
 # cse210-student-yukinishigaki
-**Course:** CSE210 Programming with Classes
+**Course:** CSE210 Programming with Classes  
 **Template:** This project was generated from the [cse210-student-template](https://github.com/byui-cse/cse210-student-template).
 
 This repository contains the starter code for many different projects. They are arranged as follows:
