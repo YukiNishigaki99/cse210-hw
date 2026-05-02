@@ -1,0 +1,26 @@
+Basic steps to push changes to GitHub:
+
+1. Stage all changes
+   git add .
+
+2. Commit with a message
+   git commit -m "describe changes"
+   (The -m option stands for "message".)
+
+3. Push to the remote repository
+   git push
+
+
+Working with branches (terminal)
+
+Create and switch to a new branch:
+git checkout -b branch-name
+
+Push the new branch to GitHub:
+git push -u origin branch-name
+
+Switch to an existing branch:
+git checkout branch-name
+
+Check branches:
+git branch
